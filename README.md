@@ -9,13 +9,13 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-### With Interface builder
+### With Interface Builder
 
 1. Setup custom `UICollectionViewLayout`
 
    ![Custom Layout](./ScreenShot/s0.png)
 
-   Setup params
+2. Setup params
 
    ![Params](./ScreenShot/s1.png)
 
