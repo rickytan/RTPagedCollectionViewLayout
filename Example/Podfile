@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'RTPagedCollectionViewLayout_Example', :exclusive => true do
+  pod 'RTPagedCollectionViewLayout', :path => '../'
+end
+
+target 'RTPagedCollectionViewLayout_Tests', :exclusive => true do
+  pod 'RTPagedCollectionViewLayout', :path => '../'
+
+  
+end
