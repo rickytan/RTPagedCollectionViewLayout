@@ -1,5 +1,5 @@
 PODS:
-  - RTPagedCollectionViewLayout (0.1.0)
+  - RTPagedCollectionViewLayout (0.1.1)
 
 DEPENDENCIES:
   - RTPagedCollectionViewLayout (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RTPagedCollectionViewLayout: 8cca7155fde71f98a16cd5f18e4c226c7b92c09d
+  RTPagedCollectionViewLayout: 6210811ebc576804431096a5647cb565bf07e93e
 
 COCOAPODS: 0.39.0
